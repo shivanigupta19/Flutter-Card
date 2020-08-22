@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+<img src="https://github.com/shivanigupta19/Flutter-Card/blob/master/assets/sample.jpeg?raw=false" width="50%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
